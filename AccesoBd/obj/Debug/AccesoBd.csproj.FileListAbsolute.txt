@@ -1,0 +1,23 @@
+c:\users\prueb\documents\visual studio 2015\Projects\Pruebatecnica_Alvaro_Serna\AccesoBd\bin\Debug\AccesoBd.dll
+c:\users\prueb\documents\visual studio 2015\Projects\Pruebatecnica_Alvaro_Serna\AccesoBd\bin\Debug\AccesoBd.pdb
+c:\users\prueb\documents\visual studio 2015\Projects\Pruebatecnica_Alvaro_Serna\AccesoBd\obj\Debug\AccesoBd.dll
+c:\users\prueb\documents\visual studio 2015\Projects\Pruebatecnica_Alvaro_Serna\AccesoBd\obj\Debug\AccesoBd.pdb
+c:\users\prueb\documents\visual studio 2015\Projects\Pruebatecnica_Alvaro_Serna\AccesoBd\obj\Debug\AccesoBd.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Vehiculos\AccesoBd\bin\Debug\AccesoBd.dll
+C:\Users\Asus\source\repos\Vehiculos\AccesoBd\bin\Debug\AccesoBd.pdb
+C:\Users\Asus\source\repos\Vehiculos\AccesoBd\obj\Debug\AccesoBd.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Vehiculos\AccesoBd\obj\Debug\AccesoBd.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Vehiculos\AccesoBd\obj\Debug\AccesoBd.dll
+C:\Users\Asus\source\repos\Vehiculos\AccesoBd\obj\Debug\AccesoBd.pdb
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\AccesoBd\bin\Debug\AccesoBd.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\AccesoBd\bin\Debug\AccesoBd.pdb
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\AccesoBd\obj\Debug\AccesoBd.csprojAssemblyReference.cache
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\AccesoBd\obj\Debug\AccesoBd.csproj.CoreCompileInputs.cache
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\AccesoBd\obj\Debug\AccesoBd.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\AccesoBd\obj\Debug\AccesoBd.pdb
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\AccesoBd\bin\Debug\AccesoBd.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\AccesoBd\bin\Debug\AccesoBd.pdb
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\AccesoBd\obj\Debug\AccesoBd.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\AccesoBd\obj\Debug\AccesoBd.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\AccesoBd\obj\Debug\AccesoBd.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\AccesoBd\obj\Debug\AccesoBd.pdb

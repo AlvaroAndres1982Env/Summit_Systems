@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "test";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.0.0.js" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="~/Scripts/Views/VehiculoRegistrar.js"></script>
+</head>
+<body>
+    <div class="container">
+        <br />
+        <div class="row mt-3">
+            <div class="col-12">
+                <form>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Texto</label>
+                        <input type="text" class="form-control" id="Texto" placeholder="">
+                    </div>
+                    <button type="button" class="btn btn-primary" onclick="validarTexto()">Validar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

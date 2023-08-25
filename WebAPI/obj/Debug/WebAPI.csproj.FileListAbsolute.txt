@@ -1,0 +1,454 @@
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\WebAPI.dll.config
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\WebAPI.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\WebAPI.pdb
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\csc.exe
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\csc.rsp
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\csi.exe
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\csi.rsp
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\vbc.exe
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\System.Web.Http.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\System.Web.Http.xml
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\jorgehrv\source\repos\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\WebAPI.dll.config
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\WebAPI.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\WebAPI.pdb
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\csc.exe
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\csc.rsp
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\csi.exe
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\csi.rsp
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\vbc.exe
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\System.Web.Cors.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\System.Web.Http.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\System.Web.Http.xml
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jorgehrv\source\repos\WebAPI - copia\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\WebAPI.dll.config
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\WebAPI.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\WebAPI.pdb
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\csc.exe
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\csc.rsp
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\csi.exe
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\csi.rsp
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\vbc.exe
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\System.Web.Cors.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\System.Web.Http.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\System.Web.Http.xml
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Asus\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\WebAPI - copia\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\WebAPI.dll.config
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\WebAPI.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\WebAPI.pdb
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\Negocio.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\System.Web.Cors.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\System.Web.Http.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\Transversal.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\AccesoBd.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\Negocio.pdb
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\Transversal.pdb
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\System.Web.Http.xml
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\AccesoBd.pdb
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Asus\source\repos\Vehiculos\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\WebAPI.dll.config
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\WebAPI.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\WebAPI.pdb
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\csc.exe
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\csc.rsp
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\csi.exe
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\csi.rsp
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\vbc.exe
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\Negocio.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\System.Web.Cors.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\System.Web.Http.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\Transversal.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\AccesoBd.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\Negocio.pdb
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\Transversal.pdb
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\System.Web.Http.xml
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\AccesoBd.pdb
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\WebAPI.dll.config
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\WebAPI.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\WebAPI.pdb
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\Negocio.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\System.Web.Cors.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\System.Web.Http.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\Transversal.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\Negocio.pdb
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\Transversal.pdb
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\System.Web.Http.xml
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\obj\Debug\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\WebAPI\obj\Debug\WebAPI.pdb

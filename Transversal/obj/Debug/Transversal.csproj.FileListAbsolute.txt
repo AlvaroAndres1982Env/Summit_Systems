@@ -1,0 +1,18 @@
+C:\Users\Asus\source\repos\Vehiculos\Transversal\bin\Debug\Transversal.dll
+C:\Users\Asus\source\repos\Vehiculos\Transversal\bin\Debug\Transversal.pdb
+C:\Users\Asus\source\repos\Vehiculos\Transversal\obj\Debug\Transversal.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Vehiculos\Transversal\obj\Debug\Transversal.dll
+C:\Users\Asus\source\repos\Vehiculos\Transversal\obj\Debug\Transversal.pdb
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\Transversal\bin\Debug\Transversal.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\Transversal\bin\Debug\Transversal.pdb
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\Transversal\obj\Debug\Transversal.csprojAssemblyReference.cache
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\Transversal\obj\Debug\Transversal.csproj.CoreCompileInputs.cache
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\Transversal\obj\Debug\Transversal.dll
+C:\Users\jorgehrv\OneDrive - Politécnico Grancolombiano\Varios\Jorge\Prueba\Vehiculos\Transversal\obj\Debug\Transversal.pdb
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\Transversal\bin\Debug\Transversal.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\Transversal\bin\Debug\Transversal.pdb
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\Transversal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\Transversal\obj\Debug\Transversal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\Transversal\obj\Debug\Transversal.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\Transversal\obj\Debug\Transversal.dll
+C:\Users\Usuario\Desktop\Vehiculos\Vehiculos\Transversal\obj\Debug\Transversal.pdb
